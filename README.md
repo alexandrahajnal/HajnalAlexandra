@@ -1,1 +1,1 @@
-# HajnalAlexandra
+The project is based on Single Page Application with RESTful backend. This is using a MySQL database as a server. The database contains two relational tabels, books and authors,and the foreign key is the id of the author. With this application we can view, add, delete or update the informations from the tabels.
