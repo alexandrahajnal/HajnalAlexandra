@@ -1,0 +1,19 @@
+.bg-1{
+    background-color: #655E68;
+    color: #ffffff;
+    border-radius: 2px;
+    border-color: #655E68; 
+}
+.bg-1:hover{
+    background-color: #726A7E;
+    border-radius: 2px;
+    border-color: #726A7E;
+}
+.description{
+    font-family:"Courier New", monospace;
+    color:#552937;
+}
+#p-description{
+    font-size: 23px;
+    color:#6E6E6E;
+}
